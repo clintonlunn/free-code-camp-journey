@@ -37,4 +37,4 @@ const TypesOfFruit = () => {
         </div>
       );
     }
-  };
+  }; 
